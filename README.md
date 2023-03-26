@@ -1,6 +1,10 @@
 # osx-dotfiles
 Dotfiles for my OS X theme. (i3, picom, xborder)
 
+## Screenshots
+![A screenshot of an OS X like theme for Arch, containing a Spotify window, a Neofetch window and a btop window.](https://github.com/madeline-xoxo/osx-dotfiles/blob/main/resources/screenshot-1.png?raw=true)
+![A screenshot of an OS X like theme for Arch, with an empty desktop.](https://github.com/madeline-xoxo/osx-dotfiles/blob/main/resources/screenshot-2.png?raw=true)
+
 ## Installation
 You'll want picom, i3, polybar, xborder (see i3 config for how to set it up), npm and node, and to do a few things:
 
