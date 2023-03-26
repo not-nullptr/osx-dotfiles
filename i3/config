@@ -197,15 +197,12 @@ bindsym $mod+Mod1+2 exec pactl set-sink-port 0 analog-output-lineout
 
 exec --no-startup-id feh --bg-fill ~/Pictures/wallpaper.png
 
-gaps outer 20
-gaps inner 15
+gaps outer 10
+gaps inner 10
 # border_radius 10
 
 
 default_border pixel 0
-
-client.focused #6c6b6c #afafaf #000000
-client.unfocused #6c6b6c #afafaf #000000
 
 exec --no-startup-id cd ~/xborder && ./xborders --border-rgba 49494999 --border-width 1 --border-radius 4
 
